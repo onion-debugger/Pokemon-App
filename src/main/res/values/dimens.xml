@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_marginBottom">5dp</dimen>
+    <dimen name="text_marginStart">16dp</dimen>
+    <dimen name="image_size">200dp</dimen>
+    <dimen name="cardCornerRadius">10dp</dimen>
+    <dimen name="card_layoutMargin">16dp</dimen>
+    <dimen name="card_marginTop">50dp</dimen>
+    <dimen name="layoutMarginTop">40dp</dimen>
+    <dimen name="image_marginTop">40dp</dimen>
+    <dimen name="textMargin">15dp</dimen>
+    <dimen name="textMarginEnd">55dp</dimen>
+</resources>
